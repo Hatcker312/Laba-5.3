@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  background-color: #e2dbdb; 
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.item {
+  margin-bottom: 20px;
+}
+
+.item p {
+  margin: 0;
+  padding: 10px;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
